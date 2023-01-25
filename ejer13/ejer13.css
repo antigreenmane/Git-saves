@@ -1,0 +1,29 @@
+#b1{
+    border: solid red 3px;
+}
+#b2{
+    border: solid blue 2px;
+}
+#b3{
+    border: dotted yellow;
+}
+#b4{
+    border-top: red dotted 2px;
+    border-left: yellow dotted 2px;
+    border-right: green dotted 2px;
+    border-bottom: blue dotted 2px;
+}
+#b5{
+    border: 15px solid;
+    border-style: double;
+}
+#b6{
+    border: 5px solid;
+    border-style: double;
+}
+#b7{
+    border: solid;
+    border-left-width: 15px;
+    border-right-width: 10px;
+    border-bottom-width: 5px;
+}
