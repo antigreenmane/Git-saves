@@ -1,0 +1,13 @@
+p, h1{
+    background-color: aquamarine;
+}
+#b1{
+   width: 300px; 
+   margin: auto;
+}
+#b2{
+    padding: 25px 50px;
+}
+#b3{
+    padding: 50px;
+}
