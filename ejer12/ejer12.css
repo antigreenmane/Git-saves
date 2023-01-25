@@ -1,0 +1,14 @@
+div{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url("obeja.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+div.a{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url("obeja.png");
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+}
