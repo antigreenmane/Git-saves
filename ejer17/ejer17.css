@@ -1,0 +1,20 @@
+body{
+    background-color: #aaa;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.container{
+    max-width: 1200;
+    margin:50px auto;
+    background-color: rgba(134, 134, 134, 0.8);
+    padding: 75px 0px;
+}
+.div1{
+    max-width: 200;
+    margin:100px 400px;
+    background-color: white;
+    padding: 25px 0px;
+}
+h1{
+    text-align: center;
+}
