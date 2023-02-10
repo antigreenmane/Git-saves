@@ -1,0 +1,16 @@
+body{
+    max-width: max-content;
+    max-height: max-content;
+    padding: 2px 2px;
+    border: 1px black solid;
+}
+div{
+    background: blue;
+    color: white;
+    margin: 1px;
+    display: inline;
+}
+img{
+    float: none;
+    width:300px;
+}
