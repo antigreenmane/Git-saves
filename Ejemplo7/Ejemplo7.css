@@ -1,0 +1,15 @@
+@keyframes example {
+    0% {backgroundcolor:red; left:0px; top:0px;}
+    25% {backgroundcolor:yellow; left:200px; top:0px;}
+    50% {backgroundcolor:blue; left:200px; top:200px;}
+    75% {backgroundcolor:green; left:0px; top:200px;}
+    100% {backgroundcolor:red; left:0px; top:0px;}
+    }
+    div {
+        animation-name: example;
+        animation-duration: 5s;
+        animation-timing-function: linear;
+        animation-delay: 2s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+}
